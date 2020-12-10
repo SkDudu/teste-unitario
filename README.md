@@ -1,4 +1,4 @@
-# teste unitario usando Jest
+# Teste unitario usando Jest
 
 Esse projeto tem como objetivo programar os algoritmos utilizando javascript e node.js. 
 
