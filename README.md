@@ -27,7 +27,7 @@ $ npm install --save-dev jest
 ```
 
 ## Testes
-Para rodar testes, Vá no aquivo package.json e na parte de "scripts", adicione 
+Para rodar testes, vá no aquivo package.json e na parte de "scripts", adicione 
 ```
 "test": "jest"
 ```
