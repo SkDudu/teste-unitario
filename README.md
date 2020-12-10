@@ -5,7 +5,7 @@ Esse projeto tem como objetivo programar os algoritmos utilizando javascript e n
 ## Para executar o projeto é necessario usar:
 - Jest (Estrutura para automatizar testes de javascript)
 
-##Desenvolvimento
+## Desenvolvimento
 Para começar o desenvolvimento do projeto é indispensável clonar o projeto do github para seu diretório:
 Mas antes, vamos instalar o [git](http://git-scm.com/download/win)
 
