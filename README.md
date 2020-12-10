@@ -14,7 +14,7 @@ cd "diretorio"
 git clone https://github.com/SkDudu/teste-unitario
 
 ```
-## Instalando dependencias:
+## Instalando dependências:
 É necessario criar um arquivo package-lock.json e um arquivo package.json:
 ```
 $ npm install
